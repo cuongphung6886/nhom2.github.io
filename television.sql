@@ -41,7 +41,7 @@ CREATE TABLE `thietbidt` (
 -- Đang đổ dữ liệu cho bảng `thietbidt`
 --
 
-INSERT INTO `thietbidt` (`ID`, `TenSp`, `MaSp`, `LoaiSp`, `Gia`, `Hang`) VALUES
+INSERT INTO `thietbidt` (`STT`, `TenSp`, `MaSp`, `LoaiSp`, `Gia`, `Hang`) VALUES
 (1, 'TiVi', 'T01', 'Smart', 100000, 'Sony'),
 (2, 'Loa', 'T02', 'Nho', 5000, 'SamSung'),
 (3, 'TV', 'T03', 'Smart', 60000, 'Pansonic'),
